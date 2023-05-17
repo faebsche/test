@@ -9,7 +9,7 @@ st.title('Hallo Nömselchen, wo spielen wir bald mal?')
 st.write('mfg nmb')
 st.map(data)
 
-import streamlit as st
+'''import streamlit as st
 import pandas as pd
 import numpy as np
 import pydeck as pdk
@@ -46,3 +46,4 @@ st.pydeck_chart(pdk.Deck(
         ),
     ],
 ))
+'''
